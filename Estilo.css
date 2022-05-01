@@ -1,0 +1,543 @@
+.fondo-negro{
+    background-image: url(./Imagenes/fondo7.jpg);
+    background-position: center;
+    
+    
+            
+        
+}
+
+.navbar{
+    box-shadow: 4px 4px 7px #999;
+}
+
+.nav-link{
+    color: white;
+    margin-top: 60px;
+}
+
+.nav-link:hover{
+    color: gray;
+}
+
+.SLOGAN{
+    font-family: 'Square Peg', cursive;
+    margin: 20px;
+     color: rgb(177, 158, 158); 
+    }
+    
+
+
+
+.presentacion{
+    margin-top: 65px;
+}
+
+.hangar02{
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgb(247, 247, 247);
+    height: 100%;
+
+    
+
+}
+
+.hangar02:hover{
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+    overflow:hidden;
+}
+
+.textoinicio{
+    font-family: 'Bebas Neue', cursive;
+    color: aliceblue;
+
+}
+
+
+
+.bordes{
+    color: brown;
+}
+
+
+
+@media (min-width:480px){
+    .table{
+        grid-template-columns: 1fr 1fr;
+       width: 60%;
+
+    }
+}
+   
+
+
+
+table{
+    height: 400px;
+    width: 700px;
+  border-collapse:collapse ;
+  margin-left: 20%;
+
+  
+  
+
+    
+}
+
+
+
+    
+    
+
+
+.tabla tr td{
+    border: solid 3px rgb(0, 0, 0);
+    padding: 5px;
+    background-color: rgb(238, 240, 240);
+
+}
+
+.tabla tr{
+    text-align: center;
+}
+
+
+.tabla td{
+    text-align: center;
+
+}
+
+.tabla th{ 
+    text-align: center;
+    border: solid 3px rgb(12, 12, 12);
+    background-color: gray;
+}
+
+
+ .tabla td:hover{ 
+     background-color: rgb(149, 213, 255);
+
+}
+
+
+
+
+
+
+.ancla{width: 100%;
+    max-width: 1000px;
+    
+    
+    
+
+}
+
+
+.tituloancla{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 40px;
+    font-size: 40px;
+    color: wheat;
+}
+
+
+
+.ancla img{ width: 400px;
+    float: left;
+    margin-right: 20px;
+    
+    
+    
+}
+
+.ancla img:hover{
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+    overflow:hidden;
+}
+
+.ancla p{
+    font-size: 18px;
+    color: white;
+}
+
+
+
+
+
+
+.novo{
+    width: 100%;
+    max-width: 1000px;
+    margin: 100px 10px 20px;
+}
+
+
+
+
+
+.titulonovo{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 60px;
+    font-size: 40px;
+    color: wheat;
+    margin-top: 10px;
+    
+
+}
+
+.novo img{width: 400px;
+    float: left;
+    margin-right: 20px;
+    
+    
+
+}
+
+
+.novo p{
+    font-size: 18px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.acero{width: 400%;
+    max-width: 1000px;
+    margin: 100px 10px 20px;
+
+}
+
+.tituloacero{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    padding: 60px;
+    font-size: 40px;
+    color: wheat;
+}
+
+.acero img{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.acero p {
+    font-size: 18px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.nosotrosfondo{
+    width: auto;
+    height: 100%;
+
+
+}
+
+.nosotros{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.nosotros2{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: wheat;
+    padding: 10px;
+
+}
+
+.nosotros img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+
+.nosotros p{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
+
+.objetivos{
+    margin-top: 10%;
+
+}
+
+.objetivos h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: wheat;
+
+}
+
+.objetivos p{
+    color: white;
+    font-size: 18px;
+}
+
+.mapas{
+    margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+.logof{
+    text-align: center;
+    color: wheat;
+    font-size: 30px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.logoft{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20%;
+    color: white;
+}
+
+
+
+
+
+.contacto0{
+  
+    color: white;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+    
+}
+
+.contacto0{
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+}
+
+/*PANTALLA GRANDE*/
+
+@media (min-width:700px){
+    .contacto0{
+        padding: 0 4rem;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    
+
+    
+      
+
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+.contactoforma{
+    background-color: rgb(42, 41, 41);
+    box-shadow: 0 0 30px 0 rgb(237, 235, 235);
+    
+    
+    
+}
+
+
+.contactoforma form p{
+   
+    padding: 20px;
+
+
+}
+
+
+.contactoforma form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.block {
+    grid-column: 1/3;
+
+}
+
+.contactoforma form button,
+.contactoforma form input,
+.contactoforma form textarea{
+    width: 100%;
+    padding: .7em;
+    border: none;
+    background: none;
+    border-bottom: 1px solid wheat;
+    outline: 0;
+    color: white;
+
+}
+
+.contactoforma form button{
+    background: red;
+    border: 0;
+    text-transform: uppercase;
+    padding: 1em;
+    
+    
+}
+
+.contactoforma form button:hover,
+.contactoforma form button:focus{
+    background:rgb(195, 20, 20);
+    color: black;
+
+}
+
+
+.contactoinfo h3{
+    text-align: center;
+    color: wheat;
+    text-transform: uppercase;
+}
+
+
+.contactoinfo  ul p{
+    text-align: right;
+    margin: 0 0 1rem 0;
+   
+}
+
+
+.contactoinfo ul{
+    list-style: none;
+    padding: 1em;
+}
+
+.contactoinfo ul li{
+    padding: .3em;
+}
+
+
+
+.contactoinfo{
+    background-color: black;
+    box-shadow: 0 0 30px 0 rgb(237, 235, 235);
+    
+}
+
+
+
+
+
+.hangar-com{
+    text-align: center;
+    color: gray;
+    padding: 10%;
+    text-transform: uppercase;
+}
+
+
+
+.container-footer{
+    width: 100%;
+    background-color: gray;
+
+}
+
+.columna1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2);
+    grid-gap:50px ;
+    padding: 45px 0px;
+}
+
+.columna1 h1{
+    color: wheat;
+    text-align: center;
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
